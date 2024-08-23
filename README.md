@@ -24,7 +24,7 @@ Frontend Deployment Link- https://vercel.com/anjali-guptas-projects/tepme-telegr
 
 
 2. **Telegram Bot:**
-3. 
+
    
 <li>Create a Telegram bot to handle user interactions and commands.</li>
 <li>Use commands like /start to interact with the game.</li>
@@ -55,9 +55,9 @@ Navigate to the Server Folder and Install Dependencies
     cd server
   npm install
 
- **Run Backend Services
+ **Run Backend Services**
  
-Open two terminal windows or tabs. In the first terminal, run:**
+**Open two terminal windows or tabs. In the first terminal, run:**
 
 ```bash
  npm run dev
